@@ -1,0 +1,39 @@
+# RAW FILES
+
+    calendar_days_consumption.csv - Designates type of each day in the Consumption year. Contains 7 Columns and 732 Rows.
+      • Year: Year of calendar days for Consumption and Scenario
+      • Month: Numeric month (1 = January, 2 = February, etc.)
+      • Day: Numeric day (1 = 1st of the month, 2 = 2nd of the month, etc.)
+      • Day_of_week: Numeric day of a 7 day week (eg. 1 = Sunday)
+      • Weekdays: Day of week as a String (eg. Sun = Sunday)
+      • HolidayName: Name of holiday
+      • School_Day: Lists school days as binary (0 = no school, 1 = school in session)
+    
+    calendar_days_scenario.csv
+    
+    car_charging.csv
+    
+    powercity_consumption.csv
+    
+    powercity_population.csv
+    
+    powercity_solarangle_consumption.csv
+    
+    powercity_weather_consumption.csv
+    
+    powercity_weather_scenario.csv
+    
+    Sector_Use_Matrix.xlsx
+    
+    solararray_production.csv
+
+    solararray_solarangle.csv
+    
+    solararray_weather.csv
+    
+    windfarm_production.csv
+    
+    windfarm_windspeed.csv
+
+
+# PROCESSED FILES
